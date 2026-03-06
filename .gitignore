@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+reporte_seguridad.json
