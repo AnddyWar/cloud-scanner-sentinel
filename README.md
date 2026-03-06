@@ -44,6 +44,7 @@ python seed.py
 
 <img width="842" height="389" alt="image" src="https://github.com/user-attachments/assets/0634e356-819b-4720-81bc-24f8aca71f87" />
 
+<img width="842" height="389" alt="Captura desde 2026-03-06 14-11-39" src="https://github.com/user-attachments/assets/07659d6b-fa74-45e8-aadc-e3f8aa031930" />
 
 
 
@@ -54,6 +55,7 @@ python Proyecto-scanner.py
 
 ##Report Structure
 After execution, the tool generates a reporte_seguridad.json file. This allows for easy integration with other security tools (SIEM/SOAR). The structure is as follows:
+<img width="871" height="186" alt="Captura desde 2026-03-06 14-13-44" src="https://github.com/user-attachments/assets/41890f51-2c49-41c9-b814-1fa2ef2ea209" />
 
 Metadata: Scan timestamp and total findings count.
 
