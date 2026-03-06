@@ -31,7 +31,9 @@ pip install boto3 localstack
 localstack start -d
 
 
+<img width="842" height="389" alt="image" src="https://github.com/user-attachments/assets/0634e356-819b-4720-81bc-24f8aca71f87" />
 
+<img width="842" height="389" alt="Captura desde 2026-03-06 14-11-39" src="https://github.com/user-attachments/assets/07659d6b-fa74-45e8-aadc-e3f8aa031930" />
 
 ## Workflow
 
@@ -42,9 +44,7 @@ Before running the audit, you must populate the LocalStack environment with vuln
 ```bash
 python seed.py
 
-<img width="842" height="389" alt="image" src="https://github.com/user-attachments/assets/0634e356-819b-4720-81bc-24f8aca71f87" />
 
-<img width="842" height="389" alt="Captura desde 2026-03-06 14-11-39" src="https://github.com/user-attachments/assets/07659d6b-fa74-45e8-aadc-e3f8aa031930" />
 
 
 
