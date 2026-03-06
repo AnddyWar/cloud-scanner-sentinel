@@ -42,6 +42,8 @@ Before running the audit, you must populate the LocalStack environment with vuln
 ```bash
 python seed.py
 
+<img width="842" height="389" alt="image" src="https://github.com/user-attachments/assets/0634e356-819b-4720-81bc-24f8aca71f87" />
+
 
 
 
