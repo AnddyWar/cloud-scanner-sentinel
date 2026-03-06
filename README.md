@@ -31,9 +31,9 @@ pip install boto3 localstack
 localstack start -d
 
 
-<img width="842" height="389" alt="image" src="https://github.com/user-attachments/assets/0634e356-819b-4720-81bc-24f8aca71f87" />
+<img width="820" height="320" alt="image" src="https://github.com/user-attachments/assets/0634e356-819b-4720-81bc-24f8aca71f87" />
 
-<img width="479" height="130" alt="Captura desde 2026-03-06 14-17-10" src="https://github.com/user-attachments/assets/669d139a-a790-40bc-bee1-e272f7d61497" />
+<img width="485" height="140" alt="Captura desde 2026-03-06 14-17-10" src="https://github.com/user-attachments/assets/669d139a-a790-40bc-bee1-e272f7d61497" />
 
 
 ## Workflow
